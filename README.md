@@ -24,8 +24,13 @@ This repository will serve as:
 - ✅ Arrays and Array Methods
 - ✅ String Concatenation
 - ✅ Type Coercion and Conversion
+- ✅ Mini Calculator Project (Basic math operations using JavaScript)
 
-More topics will be added as the course progresses!
+## 🚀 Projects
+
+- **Mini Calculator:** A simple JavaScript-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division).
+
+More projects coming soon as I continue to learn and build!
 
 ---
 
